@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+election.db*
+turso_token.txt
+turso_url.txt
+mongodb_uri.txt
+watchdog.log
+python.out
+python.err
+.vercel/

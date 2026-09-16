@@ -1,0 +1,8 @@
+turso_token.txt
+turso_url.txt
+mongodb_uri.txt
+election.db
+watchdog.log
+python.out
+python.err
+__pycache__/

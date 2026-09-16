@@ -1,0 +1,4 @@
+# Student Association Election System
+# Backend: Python standard library only (http.server, json, secrets, threading, urllib, sqlite3).
+# Database: Turso (libsql over HTTPS REST API) when TURSO_URL + TURSO_TOKEN are set,
+#           otherwise local SQLite (election.db). No third-party packages required.
